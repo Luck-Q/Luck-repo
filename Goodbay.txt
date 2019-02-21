@@ -1,0 +1,2 @@
+print("goodbay word")
+print("goodbye")
